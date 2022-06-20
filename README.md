@@ -11,7 +11,7 @@ The category of product chosen for this analysis is Video Games, and the results
 ![Summary](Resources/Summary.png)
 
 - As can be seen in the previous dataframe, the total amount of reviews within the Vine program is 94, while non-Vine sums 40471.
-- Considering only 5-star reviws, the total count for Vine reviews is 48 versus 15663 reviews out of the program.
+- Considering only 5-star reviews, the total count for Vine reviews is 48 versus 15663 reviews out of the program.
 - Resulting in 51.1% of 5-star reviews in the Vine program, and 38.7% for non-Vine.
 
 ## Summary
